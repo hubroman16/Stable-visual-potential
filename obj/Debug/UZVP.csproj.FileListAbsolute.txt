@@ -1,0 +1,39 @@
+D:\Visual Studio Projects\UZVP\bin\Debug\UZVP.exe.config
+D:\Visual Studio Projects\UZVP\bin\Debug\UZVP.exe
+D:\Visual Studio Projects\UZVP\bin\Debug\UZVP.pdb
+D:\Visual Studio Projects\UZVP\bin\Debug\FoundationLibrary.dll
+D:\Visual Studio Projects\UZVP\bin\Debug\NetManager.dll
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.Properties.Resources.resources
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.csproj.GenerateResource.cache
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.csproj.CopyComplete
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.exe
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.pdb
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.Form1.resources
+D:\Visual Studio Projects\UZVP\obj\Debug\UZVP.Form2.resources
+D:\уроки\UZVP\bin\Debug\UZVP.exe.config
+D:\уроки\UZVP\bin\Debug\UZVP.exe
+D:\уроки\UZVP\bin\Debug\UZVP.pdb
+D:\уроки\UZVP\bin\Debug\FoundationLibrary.dll
+D:\уроки\UZVP\bin\Debug\NetManager.dll
+D:\уроки\UZVP\obj\Debug\UZVP.csprojAssemblyReference.cache
+D:\уроки\UZVP\obj\Debug\UZVP.Form1.resources
+D:\уроки\UZVP\obj\Debug\UZVP.Properties.Resources.resources
+D:\уроки\UZVP\obj\Debug\UZVP.csproj.GenerateResource.cache
+D:\уроки\UZVP\obj\Debug\UZVP.csproj.CoreCompileInputs.cache
+D:\уроки\UZVP\obj\Debug\UZVP.csproj.CopyComplete
+D:\уроки\UZVP\obj\Debug\UZVP.exe
+D:\уроки\UZVP\obj\Debug\UZVP.pdb
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.csprojAssemblyReference.cache
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.Form1.resources
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.Properties.Resources.resources
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.csproj.GenerateResource.cache
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.csproj.CoreCompileInputs.cache
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.exe
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.pdb
+D:\уроки\туровский онланй\UZVP\bin\Debug\UZVP.exe.config
+D:\уроки\туровский онланй\UZVP\bin\Debug\UZVP.exe
+D:\уроки\туровский онланй\UZVP\bin\Debug\UZVP.pdb
+D:\уроки\туровский онланй\UZVP\obj\Debug\UZVP.csproj.CopyComplete
